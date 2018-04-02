@@ -107,6 +107,7 @@
         android:background="@color/theme_accent"
         android:contentDescription="@string/action_share"
         android:elevation="@dimen/fab_elevation"
+        app:pressedTranslationZ="@dimen/fab_press_translation_z"
         android:src="@drawable/ic_share"
         android:stateListAnimator="@anim/fab_state_list_anim" />
 
