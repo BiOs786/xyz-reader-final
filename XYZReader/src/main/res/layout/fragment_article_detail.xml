@@ -103,6 +103,7 @@
         android:layout_gravity="bottom|end"
         android:layout_marginBottom="@dimen/fab_margin"
         android:layout_marginRight="@dimen/fab_margin"
+        app:layout_behavior="@string/floating_action_button_behavior"
         android:background="@color/theme_accent"
         android:contentDescription="@string/action_share"
         android:elevation="@dimen/fab_elevation"

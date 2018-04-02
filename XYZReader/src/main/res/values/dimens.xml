@@ -3,10 +3,10 @@
     <dimen name="detail_title_text_size">28sp</dimen>
     <dimen name="detail_body_text_size">18sp</dimen>
 
-    <dimen name="toolbar_elevation">8dp</dimen>
+    <dimen name="toolbar_elevation">4dp</dimen>
 
     <dimen name="card_view_margin">4dp</dimen>
-    <dimen name="image_view_height">150dp</dimen>
+    <dimen name="image_view_height">0dp</dimen>
 
     <dimen name="article_title_side_padding">16dp</dimen>
     <dimen name="article_title_bottom_top_padding">8dp</dimen>
@@ -19,8 +19,8 @@
     <item name="detail_body_line_spacing_multiplier" format="float" type="fraction">1.25</item>
     <item name="title_article_line_spacing_multiplier" format="float" type="fraction">0.9</item>
 
-    <dimen name="fab_elevation">4dp</dimen>
-    <dimen name="fab_press_translation_z">8dp</dimen>
+    <dimen name="fab_elevation">6dp</dimen>
+    <dimen name="fab_press_translation_z">12dp</dimen>
     <dimen name="fab_margin">24dp</dimen>
     <dimen name="max_width_linear_layout_padding">16dp</dimen>
 
