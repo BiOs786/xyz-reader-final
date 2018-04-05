@@ -25,7 +25,7 @@
     <dimen name="max_width_linear_layout_padding">16dp</dimen>
 
     <dimen name="card_elevation">2dp</dimen>
-    <dimen name="card_press_translation_z">8dp</dimen>
+    <dimen name="card_press_translation_z">6dp</dimen>
 
     <dimen name="up_container_width">56dp</dimen>
 </resources>
